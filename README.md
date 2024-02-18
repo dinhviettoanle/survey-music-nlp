@@ -39,7 +39,7 @@ Authors: Dinh-Viet-Toan Le, Louis Bigo, Mikaela Keller, Dorien Herremans
 | **Tokenization**                    | **Score-based / Performance-based** | **Alphabet**  | **Grouping**        | **Vocab. size** | **Data**    |
 | ----------------------------------- | ----------------------------------- | ------------- | ------------------- | --------------- | ----------- |
 | [ABC notation]()                    | Score                               | Text alphabet | [Bar patching]()    | N/A             | Monophonic  |
-| [MIDI-like (2018)]()                | Performance                         | XXX           | [BPE]() [Unigram]() | 388             | Piano       |
+| [MIDI-like (2018)]()                | Performance                         | <details>`<Note-ON>` (MIDI value) <br> `<Note-OFF>` (MIDI value) <br> `<Time-shift>` (absolute time) `<Velocity>` (integer)</details>           | [BPE]() [Unigram]() | 388             | Piano       |
 | [LakhNES (2019)]()                  | Performance                         | XXX           | -                   | 630             | Multi-track |
 | [REMI (2020)]()                     | Score                               | XXX           | [BPE]() [Unigram]() | 332             | Piano       |
 | [REMI+ (2022)]()                    | Score                               | XXX           | -                   | 728             | Multi-track |
