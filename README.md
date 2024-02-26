@@ -2,7 +2,6 @@
 Authors: Dinh-Viet-Toan Le, Louis Bigo, Mikaela Keller, Dorien Herremans
 
 - [Representations](#representations)
-  - [Time-slice-based tokenization](#time-slice-based-tokenization)
   - [Event-based tokenization](#event-based-tokenization)
     - [Elementary tokens](#elementary-tokens)
     - [Composite tokens](#composite-tokens)
@@ -26,12 +25,6 @@ Authors: Dinh-Viet-Toan Le, Louis Bigo, Mikaela Keller, Dorien Herremans
 
 
 ## Representations
-
-### Time-slice-based tokenization
-
-| **Tokenization** | **Reference** | **Data** |
-| ---------------- | ------------- | -------- |
-|                  |               |          |
 
 ### Event-based tokenization
 
