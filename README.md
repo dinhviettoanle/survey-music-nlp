@@ -21,7 +21,7 @@ Authors: Dinh-Viet-Toan Le, Louis Bigo, Mikaela Keller, Dorien Herremans
       - [Transformer decoder-only architecture](#transformer-decoder-only-architecture-1)
       - [Transformer encoder-decoder architecture](#transformer-encoder-decoder-architecture-1)
       - [Comparative studies](#comparative-studies)
-- [Citation](#citation)
+- [Cite](#cite)
 
 
 ## Representations
@@ -248,9 +248,16 @@ Authors: Dinh-Viet-Toan Le, Louis Bigo, Mikaela Keller, Dorien Herremans
 
 
 
-## Citation
+## Cite
 If you find this useful, please cite our paper.
 
 ```
-bibtex
+@misc{le2024surveymirnlp,
+    title={Natural Language Processing Methods for Symbolic Music Generation and Information Retrieval: a Survey}, 
+    author={Dinh-Viet-Toan Le and Louis Bigo and Mikaela Keller and Dorien Herremans},
+    year={2024},
+    eprint={2402.17467},
+    archivePrefix={arXiv},
+    primaryClass={cs.IR}
+}
 ```
