@@ -1,5 +1,5 @@
 # Natural Language Processing Methods for Symbolic Music Generation and Information Retrieval Systems: a Survey
-Authors: Dinh-Viet-Toan Le, Louis Bigo, Mikaela Keller, Dorien Herremans
+Authors: Dinh-Viet-Toan Le, Louis Bigo, Mikaela Keller, Dorien Herremans | [arXiv preprint](https://arxiv.org/abs/2402.17467)
 
 - [Representations](#representations)
   - [Event-based tokenization](#event-based-tokenization)
